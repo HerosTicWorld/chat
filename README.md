@@ -20,15 +20,15 @@ Just replace your chat folder inside the CFX files
 
 
 
-🆙 UPDATE 03/12/2024 
+:up: UPDATE 03/12/2024 
 
-❗❗❗❗❗❗❗   READ THIS !  SOME IMPORTANT CHANGES TO INSTALL IT 
+:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:   READ THIS !  SOME IMPORTANT CHANGES TO INSTALL IT 
 
-With the new artifacts (server build) they now put a chat in ! You have to DELETE IT too !
+With the new artifacts (server build) they now put a chat in ! You have to REPLACE THIS ONE !
 -- >citizen/system_resources/chat
 ![image](https://github.com/user-attachments/assets/cc9047cb-e639-4025-8aa1-f6ff4e0a4208)
 
-So you have to delete the one in your default folder of server-data files and in your artifact !
+So you have to delete the one in your default folder of server-data files and to replace the one inside your artifact !
 
 
 
